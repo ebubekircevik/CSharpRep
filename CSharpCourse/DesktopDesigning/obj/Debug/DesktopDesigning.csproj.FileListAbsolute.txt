@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\bin\Debug\DesktopDesigning.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\bin\Debug\DesktopDesigning.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\bin\Debug\DesktopDesigning.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\obj\Debug\DesktopDesigning.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\obj\Debug\DesktopDesigning.Form1.resources
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\obj\Debug\DesktopDesigning.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\obj\Debug\DesktopDesigning.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\obj\Debug\DesktopDesigning.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\obj\Debug\DesktopDesigning.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\DesktopDesigning\obj\Debug\DesktopDesigning.pdb

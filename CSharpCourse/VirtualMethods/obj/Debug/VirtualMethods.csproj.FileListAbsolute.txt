@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Exceptions\obj\Debug\Exceptions.pdb

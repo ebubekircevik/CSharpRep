@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection\bin\Debug\Collection.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection\bin\Debug\Collection.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection\bin\Debug\Collection.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection\obj\Debug\Collection.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection\obj\Debug\Collection.pdb

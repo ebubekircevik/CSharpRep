@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor2\bin\Debug\Constructor2.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor2\bin\Debug\Constructor2.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor2\bin\Debug\Constructor2.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor2\obj\Debug\Constructor2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor2\obj\Debug\Constructor2.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor2\obj\Debug\Constructor2.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor2\obj\Debug\Constructor2.csprojAssemblyReference.cache

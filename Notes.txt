@@ -1,0 +1,77 @@
+//SINGLE LINE IF
+
+int number = 10;
+
+            Console.WriteLine(number==10 ? "Number is 10" : "Number is not 10");
+            //DENKTİR
+            if (number == 10)
+            {
+                Console.WriteLine("Number is 10");
+            }
+            else
+            {
+                Console.WriteLine("Number is not 10");
+            }
+
+            Console.ReadLine();
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+//METHODS
+static void Main(string[] args)
+        {
+            
+            Console.WriteLine(sayiDondur(10));
+
+            Console.ReadLine();
+        }
+
+        static int sayiDondur(int sayi1, int sayi2=10)//sayiDondur metoduna bu durumda tek parametre gonderilmesi yeterlidir.
+        {
+            return sayi1 + sayi2;
+        }
+
+        static int sayiDondur(int sayi1=20, int sayi2 = 10)//sayiDondur metoduna bu durumda parametre gonderilmesine gerek yokturs
+        {
+            return sayi1 + sayi2;
+        }
+
+        static int sayiDondur(int sayi1=10, int sayi2) //Boyle bir kullanım yoktur. Metodun ikinci parametresi deger alabilir metot içinde
+        {
+            return sayi1 + sayi2;
+        }
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+//PARAMS KEYWORD
+
+static void Main(string[] args)
+        {
+            
+            Console.WriteLine(sayilariTopla(1, 2, 3));
+
+            Console.ReadLine();
+        }
+
+        static int sayilariTopla(params int[] numbers) //params ile istendegi kadar sayi gonderilebilir
+        {
+            return numbers.Sum(); //gonderilen sayilari topladi
+        }
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+//CLASSLAR
+
+Customer customer1 = new Customer
+            {
+                City = "Istanbul", ID = 1, FirstName = "Ebubekir", LastName = "Cevik"
+            };
+            Console.WriteLine(customer1.FirstName);
+		//DENKTIR
+            Customer customer2 = new Customer();
+            customer2.ID = 2;
+            customer2.FirstName = "Ahmet";
+            customer2.LastName = "Yılmaz";
+            customer2.City = "Ankara";
+            Console.WriteLine(customer2.City);
+
+
+            Console.ReadLine();

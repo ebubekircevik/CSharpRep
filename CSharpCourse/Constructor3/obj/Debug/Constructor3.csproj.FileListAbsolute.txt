@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor3\bin\Debug\Constructor3.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor3\bin\Debug\Constructor3.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor3\bin\Debug\Constructor3.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor3\obj\Debug\Constructor3.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor3\obj\Debug\Constructor3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor3\obj\Debug\Constructor3.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Constructor3\obj\Debug\Constructor3.pdb

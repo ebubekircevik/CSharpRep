@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection(Dictionary)\bin\Debug\Collection(Dictionary).exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection(Dictionary)\bin\Debug\Collection(Dictionary).exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection(Dictionary)\bin\Debug\Collection(Dictionary).pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection(Dictionary)\obj\Debug\Collection(Dictionary).csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection(Dictionary)\obj\Debug\Collection(Dictionary).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection(Dictionary)\obj\Debug\Collection(Dictionary).exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\Collection(Dictionary)\obj\Debug\Collection(Dictionary).pdb
