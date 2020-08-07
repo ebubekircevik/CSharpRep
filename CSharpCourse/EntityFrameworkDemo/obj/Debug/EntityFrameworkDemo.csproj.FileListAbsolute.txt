@@ -13,3 +13,18 @@ C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemo\obj\Debug\Entity
 C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
 C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
 C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojAssemblyReference.cache
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\MelinaAero\Desktop\Entity\CSharpRep\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

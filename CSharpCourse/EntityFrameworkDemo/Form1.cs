@@ -21,7 +21,7 @@ namespace EntityFrameworkDemo
         {
             //ETradeContex contex = new ETradeContex();
             
-            using (ETradeContex contex = new ETradeContex())//boyle yazıldığında nesne ile işlem bittiğinde bellekten temizler
+            using (ETradeContext contex = new ETradeContext())//boyle yazıldığında nesne ile işlem bittiğinde bellekten temizler
             {
                 dgwProducts.DataSource = contex.Products.ToList();
             }

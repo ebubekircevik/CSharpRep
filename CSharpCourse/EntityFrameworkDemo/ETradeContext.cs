@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EntityFrameworkDemo
 {
-    public class ETradeContex: DbContext
+    public class ETradeContext: DbContext
     {
         public DbSet<Product> Products { get; set; }
     }
