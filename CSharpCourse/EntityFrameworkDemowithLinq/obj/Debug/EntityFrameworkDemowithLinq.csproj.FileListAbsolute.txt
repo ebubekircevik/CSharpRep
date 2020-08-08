@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemowithLinq.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemo.Form1.resources
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemowithLinq.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemowithLinq.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemowithLinq.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\Lenovo\Desktop\C# BTK\CSharpCourse\EntityFrameworkDemowithLinq\obj\Debug\EntityFrameworkDemo.pdb
