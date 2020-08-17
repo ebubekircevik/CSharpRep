@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.gbxCategory = new System.Windows.Forms.GroupBox();
-            this.gbxSearch = new System.Windows.Forms.GroupBox();
-            this.lblKategori = new System.Windows.Forms.Label();
-            this.lblSearch = new System.Windows.Forms.Label();
             this.cbxCategory = new System.Windows.Forms.ComboBox();
+            this.lblKategori = new System.Windows.Forms.Label();
+            this.gbxSearch = new System.Windows.Forms.GroupBox();
             this.tbxSearch = new System.Windows.Forms.TextBox();
+            this.lblSearch = new System.Windows.Forms.Label();
             this.dgwProduct = new System.Windows.Forms.DataGridView();
             this.gbxCategory.SuspendLayout();
             this.gbxSearch.SuspendLayout();
@@ -52,6 +52,24 @@
             this.gbxCategory.Text = "Kategoriye Gore Listele";
             this.gbxCategory.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
+            // cbxCategory
+            // 
+            this.cbxCategory.FormattingEnabled = true;
+            this.cbxCategory.Location = new System.Drawing.Point(113, 28);
+            this.cbxCategory.Name = "cbxCategory";
+            this.cbxCategory.Size = new System.Drawing.Size(169, 24);
+            this.cbxCategory.TabIndex = 1;
+            this.cbxCategory.SelectedIndexChanged += new System.EventHandler(this.cbxCategory_SelectedIndexChanged);
+            // 
+            // lblKategori
+            // 
+            this.lblKategori.AutoSize = true;
+            this.lblKategori.Location = new System.Drawing.Point(34, 28);
+            this.lblKategori.Name = "lblKategori";
+            this.lblKategori.Size = new System.Drawing.Size(65, 17);
+            this.lblKategori.TabIndex = 0;
+            this.lblKategori.Text = "Kategori:";
+            // 
             // gbxSearch
             // 
             this.gbxSearch.Controls.Add(this.tbxSearch);
@@ -63,14 +81,13 @@
             this.gbxSearch.TabStop = false;
             this.gbxSearch.Text = "Ürün İsmine Göre Ara";
             // 
-            // lblKategori
+            // tbxSearch
             // 
-            this.lblKategori.AutoSize = true;
-            this.lblKategori.Location = new System.Drawing.Point(34, 28);
-            this.lblKategori.Name = "lblKategori";
-            this.lblKategori.Size = new System.Drawing.Size(65, 17);
-            this.lblKategori.TabIndex = 0;
-            this.lblKategori.Text = "Kategori:";
+            this.tbxSearch.Location = new System.Drawing.Point(113, 37);
+            this.tbxSearch.Name = "tbxSearch";
+            this.tbxSearch.Size = new System.Drawing.Size(169, 22);
+            this.tbxSearch.TabIndex = 2;
+            this.tbxSearch.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // lblSearch
             // 
@@ -81,22 +98,6 @@
             this.lblSearch.TabIndex = 1;
             this.lblSearch.Text = "Ara:";
             // 
-            // cbxCategory
-            // 
-            this.cbxCategory.FormattingEnabled = true;
-            this.cbxCategory.Location = new System.Drawing.Point(113, 28);
-            this.cbxCategory.Name = "cbxCategory";
-            this.cbxCategory.Size = new System.Drawing.Size(169, 24);
-            this.cbxCategory.TabIndex = 1;
-            // 
-            // tbxSearch
-            // 
-            this.tbxSearch.Location = new System.Drawing.Point(113, 37);
-            this.tbxSearch.Name = "tbxSearch";
-            this.tbxSearch.Size = new System.Drawing.Size(169, 22);
-            this.tbxSearch.TabIndex = 2;
-            this.tbxSearch.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
-            // 
             // dgwProduct
             // 
             this.dgwProduct.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -104,19 +105,20 @@
             this.dgwProduct.Name = "dgwProduct";
             this.dgwProduct.RowHeadersWidth = 51;
             this.dgwProduct.RowTemplate.Height = 24;
-            this.dgwProduct.Size = new System.Drawing.Size(776, 150);
+            this.dgwProduct.Size = new System.Drawing.Size(1258, 531);
             this.dgwProduct.TabIndex = 2;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1282, 815);
             this.Controls.Add(this.dgwProduct);
             this.Controls.Add(this.gbxSearch);
             this.Controls.Add(this.gbxCategory);
             this.Name = "Form1";
             this.Text = "Ürünler";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.gbxCategory.ResumeLayout(false);
             this.gbxCategory.PerformLayout();
             this.gbxSearch.ResumeLayout(false);

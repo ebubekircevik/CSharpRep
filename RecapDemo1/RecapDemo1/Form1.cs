@@ -19,12 +19,74 @@ namespace RecapDemo1
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-
+            string key = tbxSearch.Text;
+            if (string.IsNullOrEmpty(key))
+            {
+                ListProducts();
+            }
+            else
+            {
+                ListProductsByProductName(tbxSearch.Text);
+               
+            }           
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
         {
 
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            ListProducts();
+            
+            ListCategories();
+        }
+
+        private void ListCategories()
+        {
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                cbxCategory.DataSource = context.Categories.ToList();
+                cbxCategory.DisplayMember = "CategoryName"; //CategoryName leri gösterir
+                cbxCategory.ValueMember = "CategoryId"; //Değer olarak seçilen categorynin id sini alır
+            }
+        }
+
+
+        private void ListProducts()
+        {
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                dgwProduct.DataSource = context.Products.ToList();
+            }
+        }
+        private void ListProductsByCategoryId(int categoryId)
+        {
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                dgwProduct.DataSource = context.Products.Where(p=>p.CategoryId == categoryId).ToList();
+            }
+        }
+        private void ListProductsByProductName(string  key)
+        {
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                dgwProduct.DataSource = context.Products.Where(p => p.ProductName.ToLower().Contains(key.ToLower())).ToList();
+            }
+        }
+
+        private void cbxCategory_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                ListProductsByCategoryId(Convert.ToInt32(cbxCategory.SelectedValue));
+            }
+            catch
+            {
+
+            }
+            
         }
     }
 }
